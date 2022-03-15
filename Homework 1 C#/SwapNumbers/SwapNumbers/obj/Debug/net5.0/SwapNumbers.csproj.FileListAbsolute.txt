@@ -1,0 +1,16 @@
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.csproj.AssemblyReference.cache
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.AssemblyInfo.cs
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\bin\Debug\net5.0\SwapNumbers.exe
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\bin\Debug\net5.0\SwapNumbers.deps.json
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\bin\Debug\net5.0\SwapNumbers.runtimeconfig.json
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\bin\Debug\net5.0\SwapNumbers.runtimeconfig.dev.json
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\bin\Debug\net5.0\SwapNumbers.dll
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\bin\Debug\net5.0\ref\SwapNumbers.dll
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\bin\Debug\net5.0\SwapNumbers.pdb
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.dll
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\ref\SwapNumbers.dll
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.pdb
+C:\Users\david\Desktop\Akademija vezbi\C#\Homework 1\SwapNumbers\SwapNumbers\obj\Debug\net5.0\SwapNumbers.genruntimeconfig.cache
